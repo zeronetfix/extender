@@ -1,0 +1,13 @@
+{
+  "name": "Extender",
+  "version": "Bin",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        { "path": "firmware/0.bin", "offset": 0 }
+
+      ]
+    }
+  ]
+}
